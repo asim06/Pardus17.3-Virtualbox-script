@@ -5,3 +5,4 @@ sudo chmod 755 eklentikur.sh
 sudo ./eklentikur.sh
 İşlem başarı ile gerçekleştikten sonra  
 reboot ve ayarlar -> görüntüle -> çözünürlük ile ekran ayarlarını değiştir
+https://raw.githubusercontent.com/asim06/Pardus17.3-Virtualbox-script/master/isimsiz.mp4
