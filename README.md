@@ -5,4 +5,4 @@ sudo chmod 755 eklentikur.sh
 sudo ./eklentikur.sh
 İşlem başarı ile gerçekleştikten sonra  
 reboot ve ayarlar -> görüntüle -> çözünürlük ile ekran ayarlarını değiştir
-
+https://youtu.be/NCa8UT3GyMI adresinden adım adım izlenerek yapılabilir
